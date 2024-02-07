@@ -23,7 +23,10 @@ Full Linux Introduction Playlist: [Linuxtopia](https://www.youtube.com/playlist?
 
 ***NOTE: Most of the content have text-based tutorials and books.***
 
-Highly Recommend to check out `Red Hat Enterprise Linux 8.0 (RH124) - Red Hat System Administration I` and ***"How Linux Works"  -Brian Ward***
+Highly Recommend to check out `Red Hat Enterprise Linux 8.0 (RH124) - Red Hat System Administration I` and ***"How Linux Works"  - Brian Ward***
+
+# Programming Basics
+# Networking Basics
 
 # Cloud Computing
 
@@ -47,18 +50,26 @@ Shell Scripting is a crucial Linux component that you need before going to cloud
 | [Program 1](https://www.youtube.com/watch?v=kiwGxctTrzQ) |
 | [Program 2](https://www.youtube.com/watch?v=JklHm-5zwPs) |
 | [Program 3](https://www.youtube.com/watch?v=JklHm-5zwPs) |
+Great Resource to take into consideration [Bash Scripting Cheatsheet](https://devhints.io/bash)
 ### Ready ... Steady ... Go 🚀✴️✨
 
 Meet your new friend: https://learntocloud.guide/
-That tool is open source Make use of.
+this tool is open source Make use of.
 
 ## Cloud Service Providers
-
+	Best Way to learn about cloud providers is by DOING.
+	Don't spend you own money but make use of the Academies
+	offered by the cloud providers.
+	
 - ### Amazon Web Services (AWS)
+	- [Youtube Playlist](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
+	- AWS Academy (Join [NTI](https://www.nti.sci.eg/dey/courses1m.php?catID=106) Training and you will get it for free)
 
 - ### Microsoft Azure
 
 - ### Google Cloud Platform (GCP)
+	- [Qwiklabs](https://www.cloudskillsboost.google/paths)
+	- Go to the [GDSC Community](https://www.facebook.com/DSC.MU) in you Campus and ask for a promo code for Qwiklabs Cloud paths and they will gladly provide them.
 
 
 Cloud isn't just monopolized by big tech players there are a lot of other cloud providers:
@@ -91,4 +102,13 @@ There are other cloud providers as well, but those are on top of my mind.
 * * * * * * *
 ```
 
-# Cloud Service === Pay-As-You-Go Service: T
+### Cloud vs VPS
+- **Cloud Services ==> Pay-As-You-Go Service**s
+	- Very scalable and can be cost efficient
+- **Virtual Private Servers ==> Fix Monthly Fee**
+	- Not So Scalable, can be expensive if not using resources.
+
+
+----
+Made with ❤️ by [Kareem El-Giushy](https://www.linkedin.com/in/kareemelgiushy/)
+©️ MIT Licence
