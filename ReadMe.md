@@ -50,6 +50,7 @@ Shell Scripting is a crucial Linux component that you need before going to cloud
 | [Program 1](https://www.youtube.com/watch?v=kiwGxctTrzQ) |
 | [Program 2](https://www.youtube.com/watch?v=JklHm-5zwPs) |
 | [Program 3](https://www.youtube.com/watch?v=JklHm-5zwPs) |
+
 Great Resource to take into consideration [Bash Scripting Cheatsheet](https://devhints.io/bash)
 ### Ready ... Steady ... Go 🚀✴️✨
 
