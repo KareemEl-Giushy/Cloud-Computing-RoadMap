@@ -65,17 +65,25 @@ this tool is open source Make use of.
 - ### Amazon Web Services (AWS)
 	- [Youtube Playlist](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
 	- AWS Academy (Join [NTI](https://www.nti.sci.eg/dey/courses1m.php?catID=106) Training and you will get it for free)
+	- You can use [AWS free tier](https://aws.amazon.com/free/). The only problem you might face that ***it needs Credit Card Information***.
 
 - ### Microsoft Azure
+	- You can get $100 in credit using [Github student pack](https://education.github.com/pack). Use them to learn more about cloud services provided by azure.
+	- ***It `doesn't need`  Credit Card Information***.
+	- I Recommend One on these two playlist
+		- [Free4Arab](https://www.youtube.com/playlist?list=PLLlr6jKKdyK1DptcME7IFXUdPCY4z9Q28)
+		- [Mohammed Zohdy](https://www.youtube.com/playlist?list=PLDxVq3TlR9y3D61tEq4BbRZ8f5bv2_PFt) (Longer and More Detailed)
 
 - ### Google Cloud Platform (GCP)
 	- [Qwiklabs](https://www.cloudskillsboost.google/paths)
 	- Go to the [GDSC Community](https://www.facebook.com/DSC.MU) in you Campus and ask for a promo code for Qwiklabs Cloud paths and they will gladly provide them.
+	- You can get $300 free credit on Google Cloud Platform using [Free Tier Plan](https://cloud.google.com/free). the only problem is that ***it needs Credit Card Information***.
 
 
 Cloud isn't just monopolized by big tech players there are a lot of other cloud providers:
 
 - ### Digital Ocean
+- 
 - ### Linode
 
 There are other cloud providers as well, but those are on top of my mind.
@@ -104,9 +112,9 @@ There are other cloud providers as well, but those are on top of my mind.
 ```
 
 ### Cloud vs VPS
-- **Cloud Services ==> Pay-As-You-Go Service**s
+- **Cloud Services ==> Pay-As-You-Go Services**
 	- Very scalable and can be cost efficient
-- **Virtual Private Servers ==> Fix Monthly Fee**
+- **Virtual Private Servers ==> Fixed Monthly Fee**
 	- Not So Scalable, can be expensive if not using resources.
 
 
