@@ -2,11 +2,11 @@
 
 Hi There, Hope you are feeling awesome today. This Repo have (will have) all my experience regarding Cloud Computing and DevOps.
 
-I hope you enjoy going through it and giving me your feedback.
+I hope you enjoy going through it and please consider giving me your feedback.
 
 ## Linux Kernel :-
 
-You must understand that all cloud services are Linux-based, So  understanding how Linux work is the first step to understand cloud.
+You must understand that all cloud services are Linux-based, So understanding how Linux work is the first step to understand cloud.
 
 | Content | Required? | Arabic (videos) | English |
 | ---- | ---- | ---- | ---- |
@@ -63,36 +63,35 @@ this tool is open source Make use of.
 	offered by the cloud providers.
 	
 - ### Amazon Web Services (AWS)
-	- [Youtube Playlist](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
-	- AWS Academy (Join [NTI](https://www.nti.sci.eg/dey/courses1m.php?catID=106) Training and you will get it for free)
+	- AWS Solution Architect Course In Arabic
+		- [Youtube Playlist](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) (Essa abo Sherif)
+	- AWS Academy (Join [NTI](https://www.nti.sci.eg/dey/courses1m.php?catID=106) Training and you will get it for free) ***(No Need For Credit Card)***
 	- You can use [AWS free tier](https://aws.amazon.com/free/). The only problem you might face that ***it needs Credit Card Information***.
 
 - ### Microsoft Azure
 	- You can get $100 in credit using [Github student pack](https://education.github.com/pack). Use them to learn more about cloud services provided by azure.
 	- ***It `doesn't need`  Credit Card Information***.
-	- I Recommend One on these two playlist
+	- I Recommend One on these two playlist:
 		- [Free4Arab](https://www.youtube.com/playlist?list=PLLlr6jKKdyK1DptcME7IFXUdPCY4z9Q28)
 		- [Mohammed Zohdy](https://www.youtube.com/playlist?list=PLDxVq3TlR9y3D61tEq4BbRZ8f5bv2_PFt) (Longer and More Detailed)
 
 - ### Google Cloud Platform (GCP)
 	- [Qwiklabs](https://www.cloudskillsboost.google/paths)
-	- Go to the [GDSC Community](https://www.facebook.com/DSC.MU) in you Campus and ask for a promo code for Qwiklabs Cloud paths and they will gladly provide them.
+	- Go to the [GDSC Community](https://www.facebook.com/DSC.MU) in you Campus and ask for a promo code for Qwiklabs Cloud paths and they will gladly provide it.
 	- You can get $300 free credit on Google Cloud Platform using [Free Tier Plan](https://cloud.google.com/free). the only problem is that ***it needs Credit Card Information***.
-
 
 Cloud isn't just monopolized by big tech players there are a lot of other cloud providers:
 
 - ### Digital Ocean
-- 
+	- 
 - ### Linode
 
 There are other cloud providers as well, but those are on top of my mind.
-
 ## Cloud Types:
 
 **![](https://lh7-us.googleusercontent.com/C1iT0-XkZ0x50FiJ80ZDzzcuNqN0uBWo1Gfexoy-lLgMRPeT-Nrq2LWLjOEVxsI8LiMMgumPSSebYejl3jTW2pIM7vSP9RyuczduTjJq8S4MCGoZD0H5DsmTPYiKnCqsHYwOiZZsJcq0oEDwC2mwLc7j4Q=s2048)**
 
-#### There are 3 different types of cloud (+ 1 Bonus)
+#### There are 3 different types of cloud (+1 Bonus)
 - **Infrastructure as a Service** (IaaS)
 	- Cloud computing service that offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis.
 - **Platform as a Service** (PaaS)
