@@ -4,6 +4,14 @@ Hi There, Hope you are feeling awesome today. This Repo have (will have) all my 
 
 I hope you enjoy going through it and please consider giving me your feedback.
 
+## Programming Basics:-
+to be added
+
+## Networking Basics
+In this section, you can find the **NEWEST** video to **Esa Abou Shrief** very sufficient and covers all necessary content
+
+[Ultimate IT  and Cloud Computing Fundamentals](https://www.youtube.com/watch?v=xXyFoE-j2So)
+
 ## Linux Kernel :-
 
 You must understand that all cloud services are Linux-based, So understanding how Linux work is the first step to understand cloud.
@@ -24,10 +32,6 @@ Full Linux Introduction Playlist: [Linuxtopia](https://www.youtube.com/playlist?
 ***NOTE: Most of the content have text-based tutorials and books.***
 
 Highly Recommend to check out `Red Hat Enterprise Linux 8.0 (RH124) - Red Hat System Administration I` and ***"How Linux Works"  - Brian Ward***
-
-# Programming Basics
-# Networking Basics
-
 # Cloud Computing
 
 Nope, Not Yet ... Give it some more patience.
